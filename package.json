@@ -1,0 +1,20 @@
+{
+	"name": "emdash",
+	"version": "0.0.0-a",
+	"description": "Simple blogging with node/iojs + GitHub",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/getify/emdash.git"
+	},
+	"keywords": [
+		"blog",
+		"static site"
+	],
+	"bugs": {
+		"url": "https://github.com/getify/emdash/issues",
+		"email": "getify@gmail.com"
+	},
+	"homepage": "http://github.com/getify/emdash",
+	"author": "Kyle Simpson <getify@gmail.com>",
+	"license": "MIT"
+}
