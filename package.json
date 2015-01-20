@@ -1,6 +1,6 @@
 {
 	"name": "emdash",
-	"version": "0.0.0-a",
+	"version": "0.0.0-b",
 	"description": "Simple blogging with node/iojs + GitHub",
 	"repository": {
 		"type": "git",
